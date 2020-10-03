@@ -1,0 +1,13 @@
+<html> 
+	<head><title>Web Application to control servos</title></head>
+	<body> 
+	<h2> Web Application to control servos</h2>
+		<form method="POST" action="/move">
+			<input type="checkbox" value="1" name="toggle_laser">
+			<label for="laser_on"> Toggle Laser? </label>
+			<p>Slider 1 <input type="range" min="500", max="2300" value={{s1}} name="slider1" /> </p>
+			<p>Slider 2 <input type="range" min="500", max="2300" value={{s2}} name="slider2" /> </p>
+			<input type="submit" value="submit" />
+		</form>
+	</body> 
+</html> 

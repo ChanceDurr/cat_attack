@@ -9,6 +9,7 @@ verify_ssl = true
 gpiozero = "*"
 python-rpi = {gpio = "*"}
 pigpio = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
