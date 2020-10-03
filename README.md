@@ -2,7 +2,7 @@
 
 I slapped a laser on to two servos to create a distraction for my cat when he attacks my feet at night
 
-<img src="https://raw.githubusercontent.com/ChanceDurr/cat_attack/master/servos.JPG">
+<img src="https://raw.githubusercontent.com/ChanceDurr/cat_attack/master/servos.JPG" width="50%" height="50%">
 
 Created a website to manually move the laser
 
