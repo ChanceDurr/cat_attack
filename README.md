@@ -2,7 +2,7 @@
 
 I slapped a laser on to two servos to create a distraction for my cat when he attacks my feet at night
 
-![picture of Raspberry Pi and Servos](servos.JPG height=50% width=50%)
+![picture of Raspberry Pi and Servos](servos.JPG){:height="50%" width="50%"}
 
 Created a website to manually move the laser
 
